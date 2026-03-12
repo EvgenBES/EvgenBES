@@ -44,8 +44,6 @@ object EvgenBES : AndroidDeveloper() {
 <!-- TECH STACK -->
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> &nbsp;Tech Arsenal
 
-<br>
-
 ### 📱 Mobile Development
 <p>
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
@@ -75,28 +73,6 @@ object EvgenBES : AndroidDeveloper() {
   <img src="https://img.shields.io/badge/Dagger_Hilt-orange?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Coroutines-7F52FF?style=for-the-badge" />
 </p>
-
-<!-- GITHUB STATS -->
-## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="28"> &nbsp;GitHub Analytics
-
-<br>
-
-<p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EvgenBES&show_icons=true&theme=radical&bg_color=0d1117&title_color=00d4ff&icon_color=a855f7&text_color=c9d1d9&border_color=30363d&hide_border=false&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EvgenBES&layout=compact&theme=radical&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9&border_color=30363d&hide_border=false&langs_count=8" />
-</p>
-
-<br>
-
-<!-- STREAK STATS -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=EvgenBES&theme=radical&background=0d1117&ring=00d4ff&fire=a855f7&currStreakLabel=00d4ff&sideLabels=00d4ff&border=30363d" width="49%" />
-
-<br><br>
-
-<!-- ACTIVITY GRAPH -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=EvgenBES&bg_color=0d1117&color=00d4ff&line=a855f7&point=00d4ff&area_color=a855f7&area=true&hide_border=false&custom_title=Contribution%20Graph&border_color=30363d" width="95%"/>
-
-<br>
 
 <!-- SNAKE ANIMATION -->
 <picture>
