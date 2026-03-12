@@ -1,10 +1,5 @@
 <div align="center">
 
-<!-- TYPING SVG -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=600&height=80&lines=%F0%9F%A4%96+Building+Android+Apps+with+Kotlin;%F0%9F%94%A5+Clean+Architecture+%7C+MVVM+%7C+Jetpack+Compose;" alt="Typing SVG" />
-</a>
-
 <!-- NEON DIVIDER -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
