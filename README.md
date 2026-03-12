@@ -1,8 +1,5 @@
 <div align="center">
 
-<!-- HEADER: Cyberpunk neon wave banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:00d4ff,50:a855f7,75:00d4ff,100:0d1117&height=220&section=header&text=EvgenBES&fontSize=80&fontColor=00d4ff&fontAlignY=35&animation=fadeIn&desc=Android%20Developer%20%7C%20Minsk%2C%20Belarus&descSize=18&descColor=a855f7&descAlignY=55" width="100%"/>
-
 <!-- TYPING SVG -->
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=600&height=80&lines=%F0%9F%A4%96+Building+Android+Apps+with+Kotlin;%F0%9F%94%A5+Clean+Architecture+%7C+MVVM+%7C+Jetpack+Compose;%F0%9F%9A%80+Turning+Coffee+Into+Code+Since+Day+One" alt="Typing SVG" />
@@ -20,10 +17,10 @@
 object EvgenBES : AndroidDeveloper() {
 
     val name = "Eugenu Butov"
-    val location = "Minsk, Belarus 🇧🇾"
+    val location = "Minsk"
     val company = "@moneff"
     
-    val languages = listOf("Kotlin", "Java", "Dart")
+    val languages = listOf("Kotlin", "Java", "Swift")
     
     val architecture = listOf(
         "MVVM", "Clean Architecture", "MVI"
@@ -41,7 +38,7 @@ object EvgenBES : AndroidDeveloper() {
     
     fun getDailyRoutine(): List<String> {
         return listOf(
-            "☕ Coffee",
+            "☕ Tea",
             "💻 Code",
             "🐛 Debug",
             "🔁 Repeat"
@@ -145,27 +142,11 @@ object EvgenBES : AndroidDeveloper() {
 
 <br><br>
 
-<!-- ANDROID ROBOT ASCII ART -->
-```
-         ╔══════════════════════════════════════╗
-         ║                                      ║
-         ║    🤖  "Keep calm and code Android"  ║
-         ║                                      ║
-         ╚══════════════════════════════════════╝
-                        ╱╲
-                       ╱  ╲
-                      ╱ 🟢 ╲
-                     ╱______╲
-```
-
 <!-- SNAKE ANIMATION -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </picture>
-
-<!-- FOOTER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,25:00d4ff,50:a855f7,75:00d4ff,100:0d1117&height=120&section=footer" width="100%"/>
 
 </div>
