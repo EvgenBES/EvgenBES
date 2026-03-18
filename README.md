@@ -19,8 +19,7 @@ object EvgenBES : AndroidDeveloper() {
     )
     
     val techStack = mapOf(
-        "Mobile"     to listOf("Android SDK", "Jetpack Compose", "Flutter"),
-        "Networking" to listOf("Retrofit", "OkHttp", "Ktor"),
+        "Mobile"     to listOf("Android SDK", "Jetpack Compose", "SwiftUI"),
         "DI"         to listOf("Dagger/Hilt", "Koin"),
         "Database"   to listOf("Room", "SQLite", "Firebase"),
         "Tools"      to listOf("Android Studio", "Git", "Gradle")
