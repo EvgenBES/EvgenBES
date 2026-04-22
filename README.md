@@ -10,27 +10,6 @@
   <img src="https://img.shields.io/badge/iOS-02569B?style=for-the-badge&logo=apple&logoColor=white" />
   <img src="https://img.shields.io/badge/Swift-0175C2?style=for-the-badge&logo=swift&logoColor=white" />
 </p>
-
-### 🛠️ Tools & Platforms
-<p>
-  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white" />
-  <img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-</p>
-
-### 🗄️ Architecture & Libraries
-<p>
-  <img src="https://img.shields.io/badge/MVVM-purple?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Clean_Architecture-00D4FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Retrofit-48B983?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Room-red?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Dagger_Hilt-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Coroutines-7F52FF?style=for-the-badge" />
-</p>
-
 <!-- SNAKE ANIMATION -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
